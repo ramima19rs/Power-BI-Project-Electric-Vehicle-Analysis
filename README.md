@@ -24,6 +24,10 @@ This project provides an in-depth analysis of the electric vehicle (EV) market, 
 3. **Top 10 Total Vehicles by Make:** Bar Chart highlighting the top 10 EV manufacturers based on the total number of vehicles.
 4. **Total Vehicles by CAFV Eligibility:** Pie/Donut Chart illustrating the proportion of EVs eligible for CAFV incentives.
 5. **Top 10 Total Vehicles by Model:** Tree Map highlighting the top 10 EV models based on the total number of vehicles.
+## DashBoard
+
+![vehicle](https://github.com/user-attachments/assets/f3d2f732-1363-4d2b-b462-5705ad432691)
+
 
 ## Business Impact
 
